@@ -22,6 +22,7 @@ LeetCodeSolutions
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/AdithyaSanker01/LeetCode/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/AdithyaSanker01/LeetCode/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AdithyaSanker01/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
