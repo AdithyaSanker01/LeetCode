@@ -17,6 +17,7 @@ LeetCodeSolutions
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdithyaSanker01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2469-convert-the-temperature](https://github.com/AdithyaSanker01/LeetCode/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
 | ------- |
