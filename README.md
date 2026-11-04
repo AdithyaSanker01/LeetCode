@@ -16,6 +16,7 @@ LeetCodeSolutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AdithyaSanker01/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/AdithyaSanker01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AdithyaSanker01/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AdithyaSanker01/LeetCode/tree/master/0412-fizz-buzz) |
