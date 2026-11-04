@@ -25,6 +25,7 @@ LeetCodeSolutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdithyaSanker01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/AdithyaSanker01/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/AdithyaSanker01/LeetCode/tree/master/0065-valid-number) |
 | [0412-fizz-buzz](https://github.com/AdithyaSanker01/LeetCode/tree/master/0412-fizz-buzz) |
@@ -38,4 +39,12 @@ LeetCodeSolutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdithyaSanker01/LeetCode/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdithyaSanker01/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdithyaSanker01/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
