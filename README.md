@@ -16,6 +16,7 @@ LeetCodeSolutions
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AdithyaSanker01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AdithyaSanker01/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AdithyaSanker01/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdithyaSanker01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -32,4 +33,8 @@ LeetCodeSolutions
 | ------- |
 | [0043-multiply-strings](https://github.com/AdithyaSanker01/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AdithyaSanker01/LeetCode/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AdithyaSanker01/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
