@@ -23,6 +23,7 @@ LeetCodeSolutions
 | [0013-roman-to-integer](https://github.com/AdithyaSanker01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AdithyaSanker01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AdithyaSanker01/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/AdithyaSanker01/LeetCode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/AdithyaSanker01/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdithyaSanker01/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/AdithyaSanker01/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -58,4 +59,8 @@ LeetCodeSolutions
 | [0001-two-sum](https://github.com/AdithyaSanker01/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AdithyaSanker01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AdithyaSanker01/LeetCode/tree/master/0041-first-missing-positive) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AdithyaSanker01/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
