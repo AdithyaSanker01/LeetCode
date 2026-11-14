@@ -19,6 +19,7 @@ LeetCodeSolutions
 | ------- |
 | [0007-reverse-integer](https://github.com/AdithyaSanker01/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdithyaSanker01/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AdithyaSanker01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AdithyaSanker01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AdithyaSanker01/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AdithyaSanker01/LeetCode/tree/master/0412-fizz-buzz) |
@@ -27,6 +28,7 @@ LeetCodeSolutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdithyaSanker01/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AdithyaSanker01/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/AdithyaSanker01/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/AdithyaSanker01/LeetCode/tree/master/0065-valid-number) |
@@ -53,4 +55,5 @@ LeetCodeSolutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdithyaSanker01/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AdithyaSanker01/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
